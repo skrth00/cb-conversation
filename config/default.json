@@ -1,0 +1,6 @@
+{
+    "appSecret": "ec1c61500733d6998fde22261f73c181",
+    "pageAccessToken": "EAAEnsPAELUMBADgSLdVm8jxd9krQqtjxrfn0VpY8Upa0KqBLLAq3CRTQjYUa4DZCTKDbu9ZCGMQj3TDWw2vUKQ9AxSZAlLIXwlYzWtoTSbAGawA4hka9eWsqhomosleZBTWeiJ8Si6B8fO667pSYGpROfRLcgVev5TlwnHtFUql1NGc1DXX1zoHFeaJUZC14ZD",
+    "validationToken": "hellochatbrick",
+    "serverURL": "http://a2a38b15757c711e788ef02f8a27348d-2123161767.us-west-2.elb.amazonaws.com:3000"
+}
